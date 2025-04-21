@@ -33,8 +33,8 @@ Oi, eu sou o Ícaro, um estudante apaixonado por tecnologia, foguetes, programa�
 | ![Ícaro GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaropegoraro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=icaropegoraro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
 
-<!--
+
 ## 🐍 Snake Game
 ![snake gif](https://github.com/icaropegoraro/icaropegoraro/blob/output/github-snake-dark.svg?palette=github-dark)
--->
+
 
