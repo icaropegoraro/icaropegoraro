@@ -22,11 +22,11 @@ Oi, eu sou o Ícaro, um estudante apaixonado por tecnologia, foguetes, programa�
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <!--<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />-->
 <img align="left" alt="MUI" title="MUI" width=30px style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/materialui/materialui-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width=30px style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width=30px style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+
     
 <br/>
-
-### Databases
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)] [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]
 
 ---
 ## 📊 Estatísticas
