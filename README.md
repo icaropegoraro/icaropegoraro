@@ -35,6 +35,6 @@ Oi, eu sou o Ícaro, um estudante apaixonado por tecnologia, foguetes, programa�
 
 
 ## 🐍 Snake Game
-<img src="https://github.com/icaropegoraro/icaropegoraro/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+<img src="https://github.com/icaropegoraro/icaropegoraro/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 
 
