@@ -31,7 +31,7 @@ Oi, eu sou o Ícaro, um estudante apaixonado por tecnologia, foguetes, programa�
 
 
 ## 📊 Estatísticas
-<!--| ![Ícaro GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaropegoraro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=icaropegoraro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| ![Ícaro GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaropegoraro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=icaropegoraro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
 
 
